@@ -12,8 +12,8 @@ var config = {
     ],
     output: {
         path: BUILD_DIR,
-        filename: 'react-editable-label.dist.js',
-        library: 'react-editable-label',
+        filename: '@softman/react-editable-label.dist.js',
+        library: '@softman/react-editable-label',
         libraryTarget: 'umd'
     },
     module: {
