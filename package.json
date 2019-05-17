@@ -1,6 +1,6 @@
 {
-  "name": "react-editable-label",
-  "version": "1.0.1",
+  "name": "@nikkicm4all/react-editable-label",
+  "version": "1.0.0",
   "description": "A simple React component for switching between a text label and a text input",
   "main": "dist/react-editable-label.dist.js",
   "scripts": {
@@ -9,13 +9,10 @@
     "clean": "rm -f ./dist/*",
     "prepublish": "npm run clean && npm run build"
   },
-  "author": {
-    "name": "Mark Biek",
-    "email": "info@biek.org"
-  },
+  "author": "Nikhil CM <rose12nikhil@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/markbiek/react-editable-label.git"
+    "url": "https://github.com/softmantk/react-editable-label"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
@@ -31,5 +28,19 @@
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "webpack": "^4.15.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/softmantk/react-editable-label/issues"
+  },
+  "homepage": "https://github.com/softmantk/react-editable-label#readme",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [
+    "react-editable",
+    "react-editable-label",
+    "react",
+    "input"
+  ],
+  "license": "MIT"
 }
