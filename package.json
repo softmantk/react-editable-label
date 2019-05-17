@@ -1,6 +1,6 @@
 {
   "name": "@softman/react-editable-label",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A simple React component for switching between a text label and a text input",
   "main": "dist/@softman/react-editable-label.dist.js",
   "scripts": {
